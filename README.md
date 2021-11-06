@@ -7,3 +7,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HooferDevelops&hide=css&theme=dracula" alt="HooferDevelop's Language Usages">
 </p>
+<p align="center">
+   <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=txd7m4lz52odnldvjgzm6m3xa&cover_image=true&theme=default&bar_color_cover=true" alt="https://github.com/kittinan/spotify-github-profile">
+</p>

@@ -2,6 +2,9 @@
   <img align="center" src="https://cdn.discordapp.com/attachments/738968109288914976/739647896948834484/hoofertransparent.png" alt="title">
 </p>
 <p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=hooferdevelops&theme=onedark" alt="Trophy">
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HooferDevelops&show_icons=true&theme=dracula" alt="HooferDevelop's Language Usages">
 </p>
 <p align="center">

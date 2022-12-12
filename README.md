@@ -7,9 +7,7 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=hooferdevelops&theme=darkhub&row=2&column=4" alt="Trophy" height="180">
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HooferDevelops&hide=css&theme=dark" height="180">
-</p>
+
 
 <p align="center">
   <img align="center" src="https://lanyard.cnrad.dev/api/547951620235984906" alt="Discord" height="180">

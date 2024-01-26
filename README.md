@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/738968109288914976/739647896948834484/hoofertransparent.png" alt="title">
+  <img align="center" src="https://img.itch.zone/aW1nLzE0NzkwMzYxLnBuZw==/original/xp4DE7.png" alt="title">
   <a href="https://hooferdevelops.github.io">https://hooferdevelops.github.io</a>
 </p>
 
